@@ -1,0 +1,1 @@
+convert the styled component into external css
