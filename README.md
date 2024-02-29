@@ -13,9 +13,9 @@
 ### Can Show a playlist and now playing view 
 ### User can be able to play any file from the playlist and the playback should continue to the next file in the playlist upon completion
 
-## Project View
-<img src="https://github.com/007shashi/images/blob/main/Music.png" height="300"/>
+<!-- Project View 
+<img src="https://github.com/007shashi/images/blob/main/Music.png" height="300"/> -->
 
 ## Netlify Link
-## [Netlify](https://iotreadymusicplayer.netlify.app/)
+## [Netlify](https://music-player-shashank.netlify.app/)
 
