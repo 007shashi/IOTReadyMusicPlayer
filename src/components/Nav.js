@@ -23,7 +23,7 @@ const Nav = ({ playlistStatus, setPlaylistStatus, setSongs }) => {
     return (
         <div className="nav-container">
             <div className="left-section">
-                <h1 className={playlistStatus ? "h1-mobile" : "h1"}>IOTReady Audio Player</h1>
+                <h1 className={playlistStatus ? "h1-mobile" : "h1"}> Music Player</h1>
             </div>
             <div className="right-section">
                 <button className="button" onClick={() => setPlaylistStatus(!playlistStatus)}>
